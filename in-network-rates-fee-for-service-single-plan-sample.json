@@ -15,18 +15,18 @@
       "network_name": ["ACME Choice Provider Group"],
       "provider_groups": [
         {
-          "npi": [1111111111, 2222222222, 3333333333, 4444444444, 5555555555],
+          "npi": [1225102833, 1235154329, 1215013388, 1548294945, 1548714975],
           "tin": {
             "type": "ein",
-            "value": "11-1111111",
+            "value": "351180407",
             "business_name": "ACME Provider Group"
           }
         },
         {
-          "npi": [1111111111, 2222222222, 3333333333, 4444444444, 5555555555],
+          "npi": [1225102833, 1235154329, 1215013388, 1548294945, 1548714975],
           "tin": {
             "type": "ein",
-            "value": "22-2222222",
+            "value": "351180407",
             "business_name": "Midland Medical Group"
           }
         }
@@ -37,10 +37,10 @@
       "network_name": ["ACME Choice Provider Group Plus"],
       "provider_groups": [
         {
-          "npi": [1111111111, 2222222222, 3333333333, 4444444444, 5555555555],
+          "npi": [1225102833, 1235154329, 1215013388, 1548294945, 1548714975],
           "tin": {
             "type": "ein",
-            "value": "22-2222222",
+            "value": "351180407",
             "business_name": "Midland Medical Group"
           }
         }
