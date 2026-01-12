@@ -15,7 +15,6 @@
       "network_name": ["ACME Choice Provider Group"],
       "provider_groups": [
         {
-          "npi": [1225102833, 1235154329, 1215013388, 1548294945, 1548714975],
           "tin": {
             "type": "ein",
             "value": "351180407",
