@@ -78,7 +78,7 @@
           ]
         },
         {
-          "provider_references": [1],
+          "provider_references": [2],
           "negotiated_prices": [
             {
               "setting": "inpatient",
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "provider_references": [1],
+          "provider_references": [2],
           "negotiated_prices": [
             {
               "setting": "inpatient",
