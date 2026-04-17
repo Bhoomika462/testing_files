@@ -1,6 +1,6 @@
 {
-  "reporting_entity_name": "medicare",
-  "reporting_entity_type": "medicare",
+  "reporting_entity_name": "optum",
+  "reporting_entity_type": "optum",
   "plan_name": "Plan A PPO",
   "issuer_name": "ACME Issuer",
   "plan_sponsor_name": "ACME small auto shop",
