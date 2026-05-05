@@ -1,5 +1,5 @@
 {
-  "reporting_entity_name": "optum",
+  "reporting_entity_name": "optum-medicare",
   "reporting_entity_type": "optum",
   "plan_name": "Plan A PPO",
   "issuer_name": "ACME Issuer",
@@ -26,7 +26,7 @@
           "npi": [1225102833, 1235154329, 1215013388, 1548294945, 1548714975],
           "tin": {
             "type": "ein",
-            "value": "351789332",
+            "value": "351180407",
             "business_name": "Midland Medical Group"
           }
         }
@@ -40,7 +40,7 @@
           "npi": [1225102833, 1235154329, 1215013388, 1548294945, 1548714975],
           "tin": {
             "type": "ein",
-            "value": "351180407",
+            "value": "351098767",
             "business_name": "Midland Medical Group"
           }
         }
