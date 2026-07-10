@@ -20,3 +20,6 @@ Fluconazole 2 milligrams/milliliter,J1450,HCPCS,25021-0184-82,NDC,,both,100,ML,7
 "Kit for preparation of tc-99m tetrosfomin injection, 100 millicurie",17156-0026-30,NDC,,,,both,1,EA,515,450,265,,,,,,,fee schedule,,355,,,,,,,fee schedule,,265,355,
 Permethrin 5% cream,45802-0269-37,NDC,,,,both,60,GM,120,75,70,,,,,,,fee schedule,,65,,,,,,,fee schedule,,65,70,
 Cyanocobalamin 1000 micrograms/milliliter injection solution,J3420,HCPCS,63323-0044-01,NDC,,both,1,ML,30,25,8,,,,,,,fee schedule,,15,,,,,,,fee schedule,,8,15,
+Spinal fusion - negotiated dollar fires (stndrd_ngtd_charge_dollar=18500 > 0),22633,CPT,,,,inpatient,,,38000,28000,18500,,,,,,12,percent of total billed charges,,,,,,,,,,18500,18500,
+Cardiac catheterization - median fallback (dollar=null pct=null median=22000),93459,CPT,,,,outpatient,,,45000,32000,,,complex tiered algorithm — dollar and pct not applicable,22000,,,18,percent of total billed charges,,,,,,,,,,22000,22000,
+MRI brain - percentile midpoint fallback (dollar=null pct=null median=null 10th=12500 90th=37500 result=25000),70553,CPT,,,,outpatient,,,52000,38000,,,,12500,37500,10,percent of total billed charges,,,,,,,,,,12500,37500,
